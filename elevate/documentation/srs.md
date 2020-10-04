@@ -26,7 +26,7 @@
 - [PostgreSQL](https://www.postgresql.org/ "PostgreSQL") -  свободная объектно-реляционная система управления базами данных (СУБД). 
 - [Thymeleaf](https://www.thymeleaf.org/ "Thymeleaf") - шаблонизатор Java XML / XHTML / HTML5, который может работать как в веб-среде, так и вне ее.
 ####3.2 Пользовательский интерфейс
-Пользовательский интерфейс представлен мокапами.
+Пользовательский интерфейс представлен мокапами: [окно регистрации](https://github.com/Sintexer/2020-autumn/blob/master/elevate/documentation/mockups/Login.pdf "окно регистрации"), [главная страница](https://github.com/Sintexer/2020-autumn/blob/master/elevate/documentation/mockups/Home.pdf "главная страница"), [упражнение](https://github.com/Sintexer/2020-autumn/blob/master/elevate/documentation/mockups/Exercise.pdf "упражнение").
 ####3.3 Интерфейс взаимодействия
 Используется HTTP стандарт взаимодействия.
 ###4. Особенности системы
