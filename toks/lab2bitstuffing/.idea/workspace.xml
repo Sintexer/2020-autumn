@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lab2bitstuffing:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b05acd5b-fa30-472c-8093-41b91f2696fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1i8lMgLvTD8fzQCJ7bdg1H9I9JH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab1" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.ilyabuglakov.bitstuffing.Runner" />
+      <module name="lab2bitstuffing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.ilyabuglakov.bitstuffing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab2bitstuffing.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/lab2bitstuffing_jar/lab2bitstuffing.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="JAR Application.lab2bitstuffing.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/Projects/Task1" value="PREVIEW" />
+        <entry key="D:/Projects/Task1/project" value="PREVIEW" />
+        <entry key="D:/Projects/example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b05acd5b-fa30-472c-8093-41b91f2696fd" name="Default Changelist" comment="" />
+      <created>1601297053540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601297053540</updated>
+      <workItem from="1601297054901" duration="15572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1601381684757">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="765" y="263" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1601381684757" />
+    <state x="690" y="339" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601385414764">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="690" y="339" key="#com.intellij.ide.util.TreeClassChooserDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1601385414764" />
+    <state x="690" y="302" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601324991103">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="690" y="302" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1601324991103" />
+    <state x="740" y="310" key="FileChooserDialogImpl" timestamp="1601297840632">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="740" y="310" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1601297840632" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1601398776067">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1601398776067" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1601398776067">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1601398776067" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1601398776067">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1601398776067" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1601398776067">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1601398776067" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1601398776068">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1601398776068" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1601398776068">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1601398776068" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1601398776067">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1601398776067" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1601398776068">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1601398776068" />
+    <state x="440" y="129" key="SettingsEditor" timestamp="1601385423049">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="440" y="129" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1601385423049" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1601302775903">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1601302775903" />
+  </component>
+</project>

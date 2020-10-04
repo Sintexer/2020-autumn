@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lab2bitstuffing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab2bitstuffing_jar</output-path>
+    <root id="archive" name="lab2bitstuffing.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="lab2bitstuffing" />
+    </root>
+  </artifact>
+</component>

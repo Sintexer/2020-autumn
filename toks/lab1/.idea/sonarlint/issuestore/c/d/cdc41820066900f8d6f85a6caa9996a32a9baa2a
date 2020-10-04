@@ -1,0 +1,19 @@
+
+i	java:S116"TRename this field "DATA_BITS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª­ä•
+j	java:S116"URename this field "PORT2_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·÷êÝ
+7
+java:S1170"!Make this final field static too.(ÐâÎŽ
+7
+java:S1170"!Make this final field static too.(·÷êÝ
+7
+java:S1170"!Make this final field static too.(¹¥¼µ
+f	java:S116"QRename this field "PARITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐâÎŽ
+<
+java:S1170"!Make this final field static too.(üéÇúÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(úÝ’¿üÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(ª­ä•
+j	java:S116"URename this field "PORT1_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¥¼µ
+n	java:S116"TRename this field "STOP_BITS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÝ’¿üÿÿÿÿ
+n	java:S116"TRename this field "BAUD_RATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üéÇúÿÿÿÿ
