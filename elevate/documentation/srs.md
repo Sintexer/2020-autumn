@@ -1,4 +1,4 @@
-# Software requerements specification
+# Software requirements specification
 ### Содержание
 1. [Введение](#1) <br>
   1.1. [Бизнес требования](#1.1) <br>
