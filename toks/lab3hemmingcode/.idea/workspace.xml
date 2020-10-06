@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c301366d-2d7e-430c-840e-75bc6b3ad264" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab2bitstuffing/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2bitstuffing/.idea/sonarlint/issuestore/3/d/3d9bcc50e06e69e6b980b349a6613b836dc6eef3" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2bitstuffing/.idea/sonarlint/issuestore/3/d/3d9bcc50e06e69e6b980b349a6613b836dc6eef3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2bitstuffing/.idea/sonarlint/issuestore/4/2/42158fb8b173d814c4bd5ac1ecae60a28ec9aec1" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2bitstuffing/.idea/sonarlint/issuestore/4/2/42158fb8b173d814c4bd5ac1ecae60a28ec9aec1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2bitstuffing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2bitstuffing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2bitstuffing/out/production/lab2bitstuffing/main/java/com/ilyabuglakov/bitstuffing/MainView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2bitstuffing/out/production/lab2bitstuffing/main/java/com/ilyabuglakov/bitstuffing/MainView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2bitstuffing/out/production/lab2bitstuffing/main/java/com/ilyabuglakov/bitstuffing/service/BitStuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2bitstuffing/out/production/lab2bitstuffing/main/java/com/ilyabuglakov/bitstuffing/service/BitStuffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2bitstuffing/src/main/java/com/ilyabuglakov/bitstuffing/MainView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2bitstuffing/src/main/java/com/ilyabuglakov/bitstuffing/MainView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2bitstuffing/src/main/java/com/ilyabuglakov/bitstuffing/service/BitStuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2bitstuffing/src/main/java/com/ilyabuglakov/bitstuffing/service/BitStuffer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iVPPSQ9eT57w2rhuFerVi40vtx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/Projects/Task1" value="PREVIEW" />
+        <entry key="D:/Projects/Task1/project" value="PREVIEW" />
+        <entry key="D:/Projects/example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c301366d-2d7e-430c-840e-75bc6b3ad264" name="Default Changelist" comment="" />
+      <created>1601989761837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601989761837</updated>
+      <workItem from="1601989767553" duration="4000" />
+    </task>
+    <servers />
+  </component>
+</project>
