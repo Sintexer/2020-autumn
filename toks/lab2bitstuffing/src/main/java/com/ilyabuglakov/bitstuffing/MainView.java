@@ -12,8 +12,6 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.util.Arrays;
-import java.util.List;
-import java.util.Map;
 
 public class MainView extends JFrame {
     private JTextArea output;
@@ -27,19 +25,14 @@ public class MainView extends JFrame {
     public MainView() {
         setContentPane(contentPanel);
         pack();
-        input.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
 
-            }
-        });
         input.addKeyListener(new KeyAdapter() {
             @Override
             public void keyTyped(KeyEvent e) {
-                if(e.getKeyChar() == '\n') {
+                if (e.getKeyChar() == '\n') {
                     transformInput();
                     input.setText("");
-                } else if(e.getKeyChar()!='1' && e.getKeyChar()!='0') {
+                } else if (e.getKeyChar() != '1' && e.getKeyChar() != '0') {
                     e.consume();
                 }
             }
@@ -50,34 +43,33 @@ public class MainView extends JFrame {
         setResizable(false);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         Arrays.asList(output, parameters).forEach(comp ->
-                comp.setBorder(BorderFactory.createEmptyBorder(5,5,5,5)));
+                comp.setBorder(BorderFactory.createEmptyBorder(5, 5, 5, 5)));
         parameters.setText(stuffInfo());
     }
 
-    private void transformInput(){
-        if(input.getText().isEmpty())
+    private void transformInput() {
+        if (input.getText().isEmpty())
             return;
         parameters.setText("");
         String info = stuffInfo() + "\nStuffed information: ";
         int startPos = info.length();
         String inputInfo = input.getText();
-        Map.Entry<String, List<Integer>> tuple = stuffer.stuffString(inputInfo);
-        String stuffedString = tuple.getKey();
+        String stuffedString = stuffer.stuffString(inputInfo);
         parameters.setText(info + stuffedString);
         Highlighter highlighter = parameters.getHighlighter();
         Highlighter.HighlightPainter painter = new DefaultHighlighter.DefaultHighlightPainter(Color.RED);
-        for(int pos: tuple.getValue()){
+        for (int pos : stuffer.stuffPositions(stuffedString)) {
             try {
-                pos = pos+startPos;
-                highlighter.addHighlight(pos, pos+1, painter);
+                pos = pos + startPos;
+                highlighter.addHighlight(pos, pos + 1, painter);
             } catch (BadLocationException e) {
                 e.printStackTrace();
             }
         }
-        output.setText(stuffer.destuffString(stuffedString, tuple.getValue()));
+        output.setText(stuffer.destuffString(stuffedString));
     }
 
-    private String stuffInfo(){
-        return "Package flag: "+ flag;
+    private String stuffInfo() {
+        return "Package flag: " + flag;
     }
 }
